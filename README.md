@@ -1,12 +1,8 @@
-- 👋 Hi, I’m BigMike
-- ## <h2 align="center"> 'Shell Practicals'</h2>
-- \This repository contains my solutions to Shell commands practicals.
-- 👀 I’m interested in Soccer
-- 🌱 I’m currently learning at AIMS senegal
-- 💞️ I’m looking to collaborate on Big Data Analysis
-- 📫 Get in touch with me on facetime @mickylol427@gmail.com
+# Hi, Im Michael
 
-<!---
-Michael-Attoh/Michael-Attoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A very dedicated and passionate individual who desires a Data Science position to leverage my programming, managerial, statistical, and technical skillset to deliver successful data-driven outcomes.
+
+Technical competence. 
+Python, R, Julia, Tableau, Power BI and SQL
+
+Analytics: Data analysis, Natural language processing, Data visualization, Pattern recognition, Data mining, Machine learning.

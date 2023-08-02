@@ -1,4 +1,4 @@
-# Hi, Im Michael
+# Hi, I'm Michael
 
 A very dedicated and passionate individual who desires a Data Science position to leverage my programming, managerial, statistical, and technical skillset to deliver successful data-driven outcomes.
 

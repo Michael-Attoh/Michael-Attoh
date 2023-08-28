@@ -5,4 +5,4 @@ A very dedicated and passionate individual who desires a Data Science position t
 Technical competence. 
 Python, R, Julia, Tableau, Power BI and SQL
 
-Analytics: Data analysis, Natural language processing, Data visualization, Pattern recognition, Data mining, Machine learning.
+Analytics: Data analysis, Natural language processing, Data visualization, Pattern recognition, Data mining, Machine learning, Statistical Modeling.

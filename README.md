@@ -1,10 +1,12 @@
 # Michael.
 
-Data Scientist
+📊 Data Scientist | Machine Learning Enthusiast
 
-A professional with love for Data Science leveraging my programming, managerial, statistical, and technical skillset to deliver successful data-driven outcomes.
+💡 Transforming raw data into actionable insights. Expert in predictive modeling, statistical analysis, and data visualization. 
 
-Technical competence:
-Python, R, Julia, Tableau, Power BI, Azure Data Studio and SQL
+🚀 Deploying ML models in real-world scenarios, leveraging big data technologies.
 
-Analytics: Computer Vision, Data analysis, Statistical Modeling, Natural language processing, Data visualization, Pattern recognition, Data mining, Machine learning
+🌐 Committed to ethical AI practices. Lifelong learner and advocate for continuous improvement.
+
+📫 Open to collaborations and discussions. Let's innovate together!
+

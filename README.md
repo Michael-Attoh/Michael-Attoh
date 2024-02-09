@@ -1,4 +1,6 @@
-# Hi, I'm Michael
+# Michael.
+
+Data Scientist
 
 A professional with love for Data Science leveraging my programming, managerial, statistical, and technical skillset to deliver successful data-driven outcomes.
 

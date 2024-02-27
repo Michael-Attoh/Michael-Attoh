@@ -1,4 +1,4 @@
-# Michael.
+# Michael
 
 📊 Data Scientist | Machine Learning Enthusiast
 
